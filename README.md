@@ -3,10 +3,11 @@ This repository contains the complete files and documentation for the DS_DataSpa
 
 The objective of this project is to:
 
--Enhance customer satisfaction
--Optimize business operations
--Provide actionable insights to drive growth
--Key components include:
+Enhance customer satisfaction
+Optimize business operations
+Provide actionable insights to drive growth
+
+Key components include:
 
 Data Cleaning: Ensuring the dataset is accurate and ready for analysis.
 EDA: Analyzing key trends and uncovering patterns in the data.
