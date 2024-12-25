@@ -46,3 +46,7 @@ Deliverables include:
 - Comprehensive insights into customer demographics, purchasing behaviors, product performance, and store operations.  
 - Actionable recommendations for strategic decisions in marketing, inventory, sales, and operations.  
 - Improved business strategies to maximize revenue and ensure sustainable growth.
+
+- ## demo
+- (https://www.linkedin.com/posts/sathiyanuc_retailanalysis-powerbi-datadrivendecisions-activity-7277670104639700992-fEOS?utm_source=share&utm_medium=member_desktop)
+
