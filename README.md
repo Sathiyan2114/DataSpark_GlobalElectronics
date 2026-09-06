@@ -102,7 +102,7 @@ The project includes an interactive Power BI dashboard designed to provide busin
 - Regional trends
 - Business growth opportunities
 
-📌 Power BI dashboard file: ```text Illuminating Insights for Global Electronics.pbix```
+📌 Power BI dashboard file: ```Illuminating Insights for Global Electronics.pbix```
 
 ## 💡 Business Insights
 
